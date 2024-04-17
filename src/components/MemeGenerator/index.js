@@ -105,6 +105,7 @@ class MemeGenerator extends Component {
             </CustomDiv>
           )}
         </div>
+        <p>Hello</p>
       </div>
     )
   }
